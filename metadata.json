@@ -1,0 +1,6 @@
+{
+  "name": "BacheReport",
+  "description": "Reporte ciudadano de baches con geolocalización, evidencias fotográficas e incidencia vial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
